@@ -17,16 +17,12 @@ A minimalistic Face Recognition module which can be easily incorporated in any A
 - ML Kit
 - TensorFlow Lite
 
-## Model 
-- MobileFaceNet : [Research Paper](https://arxiv.org/ftp/arxiv/papers/1804/1804.07573.pdf)
-- [Implementation](https://github.com/sirius-ai/MobileFaceNet_TF)
-
 ## Installation
 
 Use Import from Version Control in Android Studio or Clone repo and open the project in Android Studio.
 
 ```bash
-git clone https://github.com/atharvakale31/Face_Recognition_Android.git
+git clone https://github.com/abhishekanand0811/Real-Time_Face_Recognition_Android
 ```
 ### Application file : [Face_Recognition.apk](https://drive.google.com/file/d/1ggOo4acHOodrdCP2MkfUv4DJlL_VDZH4/view?usp=sharing)
 
